@@ -1,6 +1,6 @@
 # Week-4-Sprint
 
-jed
+Creation of a Database & Storing user input into said database
 
 # How To Use Program
 
